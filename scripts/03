@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo Merry Christmas! | at -t 12/25/18
