@@ -1,0 +1,3 @@
+# ip can be localhost
+
+ssh [user]@[ip]

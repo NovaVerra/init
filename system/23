@@ -1,0 +1,8 @@
+ssh [user]@[ip]
+	# log in to server
+
+adduser new_user
+	# create new user and follow through with the creation process
+
+su -username 
+	# add the newly created user to user group
